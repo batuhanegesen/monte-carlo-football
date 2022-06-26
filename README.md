@@ -44,6 +44,8 @@ Manchester City is #1 at week(4) in 643 simulations
 the simulation size is 1000
 Manchester City prediction is 653/1000 = 64.3%
 
+![Screenshot_1](https://user-images.githubusercontent.com/31734928/175832949-f5f09076-e228-46a7-bcde-65f9c793b423.png)
 
-
+The GUI is not done yet, but started it by using CTkinter, a custom Tkinter library which has better visuals.
+CTkinter https://github.com/TomSchimansky/CustomTkinter/
 
