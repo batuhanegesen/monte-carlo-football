@@ -1,0 +1,25 @@
+from Match import Match
+from Team import Team
+import pymongo as mongo
+import DB_Operations as do
+
+class Week():
+    def __init__(self, number:int):
+        self.number = 1
+        self.matches = []
+    def UpdateWeek(self,match:Match):
+        self.matches.append(match)
+
+
+
+class League():
+    def __init__(self,season:int):
+        self.weeks = []
+        self.season = season
+    def PlaySeason():
+        print("Playing whole season.")
+
+
+
+
+
