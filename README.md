@@ -49,3 +49,5 @@ Manchester City prediction is 653/1000 = 64.3%
 The GUI is not done yet, but started it by using CTkinter, a custom Tkinter library which has better visuals.
 CTkinter https://github.com/TomSchimansky/CustomTkinter/
 
+Currently, the working method for the project is *running GUI.py* and *pressing enter to the input area* to continue next week simulation.
+
