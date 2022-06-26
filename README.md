@@ -29,6 +29,10 @@ then, the fixture is created where every team matches with all, both as home and
 the number of match weeks in season are determined by: (# of teams - 1) *2
 and there will be (weeks *2) = 12 matches
 
+# Simulating Matches
+![cmd_run](https://user-images.githubusercontent.com/31734928/175832608-6fcf742a-5498-4996-a1b9-35742f7f777c.gif)
+
+
 the simulation of the fixture matches are done by weekly or all league.
 
 the part where estimating the win probability for each team after 4th week not implemented, however it can actually be done easily by some basic calculations:
@@ -39,6 +43,7 @@ i.e.
 Manchester City is #1 at week(4) in 643 simulations
 the simulation size is 1000
 Manchester City prediction is 653/1000 = 64.3%
+
 
 
 
